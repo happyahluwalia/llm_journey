@@ -1,0 +1,10 @@
+# Data files - don't commit to git
+data/
+*.csv
+*.json
+*.txt
+*.html
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints
