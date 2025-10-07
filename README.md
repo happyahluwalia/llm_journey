@@ -27,7 +27,7 @@ Learn how production LLMs prepare training data by building a complete data clea
 - Cleaning pipeline (normalization, language detection, quality filtering)
 - How Dolma, FineWeb, and RefinedWeb approach data cleaning
 
-**📓 [Open in Colab](https://colab.research.google.com/github/YOUR-USERNAME/llm-learning-journey/blob/main/week-01-data-pipeline/LLM_Data_Cleaning_Pipeline.ipynb)** ← Click to run in browser!
+**📓 [Open in Colab](https://colab.research.google.com/github/happyahluwalia/llm_journey/blob/main/week-01-data-pipeline/Data_Cleaning_Pipeline.ipynb)** ← Click to run in browser!
 
 ---
 
