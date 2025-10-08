@@ -29,6 +29,20 @@ Learn how production LLMs prepare training data by building a complete data clea
 
 **📓 [Open in Colab](https://colab.research.google.com/github/happyahluwalia/llm_journey/blob/main/week-01-data-pipeline/Data_Cleaning_Pipeline.ipynb)** ← Click to run in browser!
 
+
+### ✅ Tokenization Fundamentals 
+**Status:** Complete | **Topics:** BPE algorithm, token counting, cost optimization, context management
+
+Learn how LLMs convert text to tokens and why it matters for building applications.
+
+**Key Concepts:**
+- Why subword tokenization (BPE) is necessary
+- How the BPE algorithm works
+- Practical token management (counting, costs, limits)
+- Real-world implications (multilingual, model limitations)
+
+  **📓 [Open in Colab](https://colab.research.google.com/github/happyahluwalia/llm_journey/blob/main/week-01-data-pipeline/Tokenization.ipynb)** ← Click to run in browser!
+  
 ---
 
 ### 🚧 Week 2-5: Coming Soon
